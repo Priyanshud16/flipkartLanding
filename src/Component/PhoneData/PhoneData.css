@@ -1,0 +1,27 @@
+.MobileDatacontainer{
+ 
+    margin-top: 20px;
+    width: 90%;
+    gap: 20px;
+   
+    
+}
+
+#BannerParentContainer{
+    display: flex;
+}
+.mobileDataContainer{
+    border: 1px solid black;
+    border-radius: 20px;
+    gap: 20px;
+   
+}
+#mobileBanner{
+  
+    width: 20%;
+    margin-top: 50px;
+}
+#mobileBanner>img{
+    height: 250px;
+    width: 100%;
+}
